@@ -83,8 +83,6 @@ services:
 5. Ikuti petunjuk dari web tersebut
 6. Protokol HTTP/1 
 ![http1](./assets/http1.png)
-<br>
-<br>
 7. Akses https://localhost untuk HTTP/2
 8. Protokol HTTP/2
-![http2](./assets/http1.png)
+![http2](./assets/http2.png)

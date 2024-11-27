@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  web:
+    image: nginx:alpine
+    ports:
+      - "8001:80" # HTTP/1.1
+      - "443:443" # HTTP/2
+    volumes:
+      - ./nginx-config:/etc/nginx/conf.d
+      - ./ssl:/etc/nginx/certs
+      - ./index.html:/var/www/index.html

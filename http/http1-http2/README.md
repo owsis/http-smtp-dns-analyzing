@@ -43,8 +43,8 @@ server {
   root /var/www/;
   index index.html;
 }
-
 ```
+4. Save
 
 ### 2. Open SSL
 1. Masuk ke folder `{root_project}/`
@@ -56,7 +56,7 @@ openssl req -x509 -newkey rsa:2048 -keyout ssl/server.key -out ssl/server.crt -d
 4. Isi jawaban dari pertanyaan sesuai yang diinginkan
 
 
-### Docker Compose
+### 3. Docker Compose
 1. Buat file `docker-compose.yml`
 2. Masukkan kode berikut
 ```docker
@@ -72,6 +72,7 @@ services:
       - ./ssl:/etc/nginx/certs
       - ./index.html:/var/www/index.html
 ```
+3. Save
 
 ## Test
 

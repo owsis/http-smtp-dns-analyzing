@@ -56,6 +56,48 @@ openssl req -x509 -newkey rsa:2048 -keyout ssl/server.key -out ssl/server.crt -d
 4. Isi jawaban dari pertanyaan sesuai yang diinginkan
 
 
+### 3. Landing Page
+1. Buat file `index.html`
+2. Masukkan code berikut
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTTP1 dan HTTP2</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Fira Code', 'Arial Narrow', Arial, sans-serif, sans-serif;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>HTTP1 dan HTTP2</h1>
+    <p>HTTP1 dan HTTP2 adalah protokol yang digunakan untuk mengakses data dari server.</p>
+    <br>
+    <h2>Pembuktian menggunakan Protokol HTTP/1 dan HTTP2</h2>
+    <ol>
+        <li>Gunakan browser Chrome</li>
+        <li>Klik Kanan pada sembarang tempat -> Pilih <strong>Inspect</strong></li>
+        <li>Pilih Tab <strong>Network</strong></li>
+        <li>Refresh halaman ini</li>
+        <li>Lihat baris request halaman ini (localhost)</li>
+        <li>Lihat bagian kolom <strong>Protocol</strong></li>
+        <li>Jika tidak ada kolom <strong>Protocol</strong>, klik kanan pada salah satu kolom -> <strong>Check Protocol</strong></li>
+        <li>HTTP1 -> Protokol:HTTP1</li>
+        <li>HTTP2 -> Protokol:h2</li>
+    </ol>
+</body>
+
+</html>
+```
+
 ### 3. Docker Compose
 1. Buat file `docker-compose.yml`
 2. Masukkan kode berikut

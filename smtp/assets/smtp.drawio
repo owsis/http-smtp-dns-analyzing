@@ -1,0 +1,388 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1" pages="5">
+  <diagram name="Page-1" id="xit6lK54P7ngHMLnT0i3">
+    <mxGraphModel dx="954" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8LUleIAjRjNqUt2ctFmv-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="80" width="470" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="8LUleIAjRjNqUt2ctFmv-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8LUleIAjRjNqUt2ctFmv-1" target="8LUleIAjRjNqUt2ctFmv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8LUleIAjRjNqUt2ctFmv-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.user_male;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="32" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8LUleIAjRjNqUt2ctFmv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="8LUleIAjRjNqUt2ctFmv-2" target="8LUleIAjRjNqUt2ctFmv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8LUleIAjRjNqUt2ctFmv-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.user_male;" vertex="1" parent="1">
+          <mxGeometry x="420" y="120" width="32" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8LUleIAjRjNqUt2ctFmv-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mail_server;" vertex="1" parent="1">
+          <mxGeometry x="115" y="122.5" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="8LUleIAjRjNqUt2ctFmv-5" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mail_server;" vertex="1" parent="1">
+          <mxGeometry x="300" y="122.5" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="8LUleIAjRjNqUt2ctFmv-8" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="150" as="sourcePoint" />
+            <mxPoint x="200" y="149.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8LUleIAjRjNqUt2ctFmv-9" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;endFill=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="170" as="sourcePoint" />
+            <mxPoint x="202" y="169.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8LUleIAjRjNqUt2ctFmv-10" value="SMTP Sender" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8LUleIAjRjNqUt2ctFmv-11" value="SMTP Receiver" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8LUleIAjRjNqUt2ctFmv-13" value="Sender" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="26" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8LUleIAjRjNqUt2ctFmv-14" value="Receiver" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="406" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XZVorGO2bnx34ldB_kyr" name="Page-2">
+    <mxGraphModel dx="954" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZuPv3thbJX5OayfMqbd4-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="440" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuPv3thbJX5OayfMqbd4-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="210" as="sourcePoint" />
+            <mxPoint x="430" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuPv3thbJX5OayfMqbd4-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="150" y="197.5" width="288" height="292.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuPv3thbJX5OayfMqbd4-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="ZuPv3thbJX5OayfMqbd4-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="292.5" as="sourcePoint" />
+            <mxPoint y="2.2674418604651163" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuPv3thbJX5OayfMqbd4-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="ZuPv3thbJX5OayfMqbd4-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="288" y="290.2325581395349" as="sourcePoint" />
+            <mxPoint x="288" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuPv3thbJX5OayfMqbd4-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="ZuPv3thbJX5OayfMqbd4-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279" y="122.5" as="sourcePoint" />
+            <mxPoint x="9" y="152.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuPv3thbJX5OayfMqbd4-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="ZuPv3thbJX5OayfMqbd4-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9" y="182.5" as="sourcePoint" />
+            <mxPoint x="279" y="212.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="EHLO GP" link="220-xc90.websitewelcome.com ESMTP Exim 4.69 #1 Mon, 05 Oct 2009 01:05:54 -0500" id="ZuPv3thbJX5OayfMqbd4-16">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;rotation=5;" vertex="1" parent="ZuPv3thbJX5OayfMqbd4-20">
+            <mxGeometry x="89" y="182.5" width="110" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ZuPv3thbJX5OayfMqbd4-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="ZuPv3thbJX5OayfMqbd4-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279" y="242.5" as="sourcePoint" />
+            <mxPoint x="9" y="272.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="250-xc90.websitewelcome.com Hello GP" link="250-xc90.websitewelcome.com Hello GP [122.162.143.157]" id="ZuPv3thbJX5OayfMqbd4-19">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;rotation=-5;" vertex="1" parent="ZuPv3thbJX5OayfMqbd4-20">
+            <mxGeometry x="39" y="242.5" width="210" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="220-xc90.websitewelcome.com" link="220-xc90.websitewelcome.com ESMTP Exim 4.69 #1 Mon, 05 Oct 2009 01:05:54 -0500" id="ZuPv3thbJX5OayfMqbd4-12">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;rotation=-5;" vertex="1" parent="ZuPv3thbJX5OayfMqbd4-20">
+            <mxGeometry x="39" y="122.5" width="210" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ZuPv3thbJX5OayfMqbd4-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="ZuPv3thbJX5OayfMqbd4-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9" y="72.5" as="sourcePoint" />
+            <mxPoint x="279" y="92.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuPv3thbJX5OayfMqbd4-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="ZuPv3thbJX5OayfMqbd4-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279" y="42.5" as="sourcePoint" />
+            <mxPoint x="9" y="52.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuPv3thbJX5OayfMqbd4-10" value="3 way Handshake" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;rotation=5;" vertex="1" parent="ZuPv3thbJX5OayfMqbd4-20">
+          <mxGeometry x="99" y="12.5" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuPv3thbJX5OayfMqbd4-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mail_server;" vertex="1" parent="1">
+          <mxGeometry x="115" y="122.5" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuPv3thbJX5OayfMqbd4-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mail_server;" vertex="1" parent="1">
+          <mxGeometry x="401" y="122.5" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuPv3thbJX5OayfMqbd4-6" value="Sender&lt;div&gt;SMTP&lt;/div&gt;&lt;div&gt;10.10.1.4:1470&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="94" y="60" width="117" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuPv3thbJX5OayfMqbd4-7" value="Receiver&lt;div&gt;SMTP&lt;/div&gt;&lt;div&gt;74.53.140.153:25&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="380" y="60" width="117" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuPv3thbJX5OayfMqbd4-24" value="Negosiasi SMTP&lt;div&gt;(Handshake)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230" y="50" width="128" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LSHk7wPDfHkZdBPJW1m3" name="Page-3">
+    <mxGraphModel dx="954" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S7Ue28uoSx0deO-hxkoQ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="440" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="S7Ue28uoSx0deO-hxkoQ-15" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mail_server;" vertex="1" parent="1">
+          <mxGeometry x="115" y="122.5" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="S7Ue28uoSx0deO-hxkoQ-16" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mail_server;" vertex="1" parent="1">
+          <mxGeometry x="401" y="122.5" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="S7Ue28uoSx0deO-hxkoQ-17" value="Sender&lt;div&gt;SMTP&lt;/div&gt;&lt;div&gt;10.10.1.4:1470&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="94" y="60" width="117" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S7Ue28uoSx0deO-hxkoQ-18" value="Receiver&lt;div&gt;SMTP&lt;/div&gt;&lt;div&gt;74.53.140.153:25&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="380" y="60" width="117" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S7Ue28uoSx0deO-hxkoQ-19" value="Pengiriman Header" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230" y="50" width="128" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S7Ue28uoSx0deO-hxkoQ-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="470" as="sourcePoint" />
+            <mxPoint x="150" y="199.7674418604651" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S7Ue28uoSx0deO-hxkoQ-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="438" y="470" as="sourcePoint" />
+            <mxPoint x="438" y="197.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S7Ue28uoSx0deO-hxkoQ-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159" y="220" as="sourcePoint" />
+            <mxPoint x="429" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;MAIL FROM: &amp;lt;gurpartap@patriots.in&amp;gt;&lt;/div&gt;" link="MAIL FROM: &lt;gurpartap@patriots.in&gt;" id="S7Ue28uoSx0deO-hxkoQ-8">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;rotation=5;" vertex="1" parent="1">
+            <mxGeometry x="190" y="220" width="208" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="S7Ue28uoSx0deO-hxkoQ-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429" y="280" as="sourcePoint" />
+            <mxPoint x="159" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;250 OK&lt;/div&gt;" link="250-xc90.websitewelcome.com Hello GP [122.162.143.157]" id="S7Ue28uoSx0deO-hxkoQ-10">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;rotation=-5;" vertex="1" parent="1">
+            <mxGeometry x="189" y="290" width="210" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="S7Ue28uoSx0deO-hxkoQ-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159" y="340" as="sourcePoint" />
+            <mxPoint x="429" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;RCPT TO: &amp;lt;raj_deol2002in@yahoo.co.in&amp;gt;&lt;/div&gt;" link="MAIL FROM: &lt;gurpartap@patriots.in&gt;" id="S7Ue28uoSx0deO-hxkoQ-21">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;rotation=5;" vertex="1" parent="1">
+            <mxGeometry x="190" y="340" width="208" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="S7Ue28uoSx0deO-hxkoQ-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429" y="400" as="sourcePoint" />
+            <mxPoint x="159" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;250 OK&lt;/div&gt;" link="250-xc90.websitewelcome.com Hello GP [122.162.143.157]" id="S7Ue28uoSx0deO-hxkoQ-23">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;rotation=-5;" vertex="1" parent="1">
+            <mxGeometry x="189" y="410" width="210" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BGXcIUbaCURq427wu28L" name="Page-4">
+    <mxGraphModel dx="954" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B6lDK6AkB0WHNfy430qY-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="440" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="B6lDK6AkB0WHNfy430qY-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mail_server;" vertex="1" parent="1">
+          <mxGeometry x="115" y="122.5" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="B6lDK6AkB0WHNfy430qY-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mail_server;" vertex="1" parent="1">
+          <mxGeometry x="401" y="122.5" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="B6lDK6AkB0WHNfy430qY-4" value="Sender&lt;div&gt;SMTP&lt;/div&gt;&lt;div&gt;10.10.1.4:1470&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="94" y="60" width="117" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B6lDK6AkB0WHNfy430qY-5" value="Receiver&lt;div&gt;SMTP&lt;/div&gt;&lt;div&gt;74.53.140.153:25&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="380" y="60" width="117" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B6lDK6AkB0WHNfy430qY-6" value="Pengiriman Isi Email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230" y="50" width="128" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B6lDK6AkB0WHNfy430qY-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.159;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="B6lDK6AkB0WHNfy430qY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="470" as="sourcePoint" />
+            <mxPoint x="150" y="199.7674418604651" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6lDK6AkB0WHNfy430qY-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="438" y="518" as="sourcePoint" />
+            <mxPoint x="438" y="197.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6lDK6AkB0WHNfy430qY-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159" y="220" as="sourcePoint" />
+            <mxPoint x="429" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;DATA&lt;/div&gt;" id="B6lDK6AkB0WHNfy430qY-10">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;rotation=5;" vertex="1" parent="1">
+            <mxGeometry x="190" y="230" width="208" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="B6lDK6AkB0WHNfy430qY-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429" y="280" as="sourcePoint" />
+            <mxPoint x="159" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;354 Enter message, ending with &quot;.&quot; on a line by itself&lt;/div&gt;" id="B6lDK6AkB0WHNfy430qY-12">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;rotation=-5;" vertex="1" parent="1">
+            <mxGeometry x="189" y="280" width="210" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="B6lDK6AkB0WHNfy430qY-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159" y="340" as="sourcePoint" />
+            <mxPoint x="429" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;Message Body, 1460 Byte&amp;nbsp;&lt;/div&gt;" id="B6lDK6AkB0WHNfy430qY-14">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;rotation=5;" vertex="1" parent="1">
+            <mxGeometry x="190" y="350" width="208" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="B6lDK6AkB0WHNfy430qY-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429" y="460" as="sourcePoint" />
+            <mxPoint x="159" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;250 OK&lt;/div&gt;" link="250-xc90.websitewelcome.com Hello GP [122.162.143.157]" id="B6lDK6AkB0WHNfy430qY-16">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;rotation=-5;" vertex="1" parent="1">
+            <mxGeometry x="189" y="470" width="210" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="B6lDK6AkB0WHNfy430qY-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159" y="410" as="sourcePoint" />
+            <mxPoint x="429" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;Message Body, 1460 Byte&amp;nbsp;&lt;/div&gt;" id="B6lDK6AkB0WHNfy430qY-19">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;rotation=5;" vertex="1" parent="1">
+            <mxGeometry x="190" y="420" width="208" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="B6lDK6AkB0WHNfy430qY-20" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="264" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Fwv7J-EMB4UWPf3J2NRj" name="Page-5">
+    <mxGraphModel dx="954" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iB7zUb63FQW_3zNAFKr--1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="440" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="iB7zUb63FQW_3zNAFKr--2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mail_server;" vertex="1" parent="1">
+          <mxGeometry x="115" y="122.5" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="iB7zUb63FQW_3zNAFKr--3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mail_server;" vertex="1" parent="1">
+          <mxGeometry x="401" y="122.5" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="iB7zUb63FQW_3zNAFKr--4" value="Sender&lt;div&gt;SMTP&lt;/div&gt;&lt;div&gt;10.10.1.4:1470&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="94" y="60" width="117" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iB7zUb63FQW_3zNAFKr--5" value="Receiver&lt;div&gt;SMTP&lt;/div&gt;&lt;div&gt;74.53.140.153:25&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="380" y="60" width="117" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iB7zUb63FQW_3zNAFKr--6" value="Akhiri Koneksi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230" y="50" width="128" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iB7zUb63FQW_3zNAFKr--7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="350" as="sourcePoint" />
+            <mxPoint x="150" y="199.7674418604651" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iB7zUb63FQW_3zNAFKr--8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="438" y="350" as="sourcePoint" />
+            <mxPoint x="438" y="197.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iB7zUb63FQW_3zNAFKr--9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159" y="220" as="sourcePoint" />
+            <mxPoint x="429" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;QUIT&lt;/div&gt;" id="iB7zUb63FQW_3zNAFKr--10">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;rotation=5;" vertex="1" parent="1">
+            <mxGeometry x="190" y="230" width="208" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="iB7zUb63FQW_3zNAFKr--11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429" y="280" as="sourcePoint" />
+            <mxPoint x="159" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;221 xc90.websitewelcome.com closing connection&lt;/div&gt;" id="iB7zUb63FQW_3zNAFKr--12">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;rotation=-5;" vertex="1" parent="1">
+            <mxGeometry x="189" y="280" width="210" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

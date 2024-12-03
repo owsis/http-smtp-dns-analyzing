@@ -98,7 +98,7 @@ openssl req -x509 -newkey rsa:2048 -keyout ssl/server.key -out ssl/server.crt -d
 </html>
 ```
 
-### 3. Docker Compose
+### 4. Docker Compose
 1. Buat file `docker-compose.yml`
 2. Masukkan kode berikut
 ```docker

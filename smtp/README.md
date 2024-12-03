@@ -26,7 +26,9 @@
 - Sender SMTP mengirimkan perintah `HELO` atau `EHLO` untuk memperkenalkan dirinya kepada Receiver SMTP.
 - Receiver SMTP me-response `250-xc90.websitewelcome.com Hello GP`
 
-### 3. Pengiriman Header
+---
+
+### 2. Pengiriman Header
 ![](./assets/smtp-header.png)
 
 1. Sender SMTP mengirimkan Command
@@ -41,7 +43,9 @@ RCPT TO: <raj_deo12002in@yahoo.co.in>
 ```
 4. Receiver SMTP me-response `250 OK`
 
-### 4. Pengiriman Isi Email
+---
+
+### 3. Pengiriman Isi Email
 ![](./assets/smtp-email.png)
 
 1. Sender SMTP mengirim Command `DATA`
@@ -54,7 +58,9 @@ RCPT TO: <raj_deo12002in@yahoo.co.in>
 
 4. Jika Sender SMTP sudah selesai menerima isi email, Receiver SMTP me-response `250 OK`
 
-### 5. Akhiri Koneksi
+---
+
+### 4. Akhiri Koneksi
 ![](./assets/smtp-end.png)
 
 1. Sender SMTP mengirimkan Command `QUIT`
